@@ -1,4 +1,4 @@
-# desafioProjetoJS
+# desafioProjetoJavaScript
 ## Desafio Classificador de Nível de Herói.
 
 - Utilizado: Variaveis, Operadores, Laços de Repetição, Estruturas de Decisão
